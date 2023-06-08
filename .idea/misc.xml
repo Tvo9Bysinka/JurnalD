@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/drawable/buttonshape.xml" value="0.123" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/drawable/buttonshape_prepod.xml" value="0.207" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/drawable/ic_baseline_fact_check_24.xml" value="0.207" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.2595" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/drawable/ic_baseline_list_alt_24.xml" value="0.207" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1505" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/drawable/side_nav_bar.xml" value="0.124" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/activity_fngs.xml" value="0.264" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/activity_jurnal.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/activity_predmeta.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/activity_prepod.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/activity_smotret_ficsation.xml" value="0.264" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/activity_smotret_jurnal.xml" value="0.264" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/activity_smotret_propyski.xml" value="0.264" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/activity_student.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/app_bar_main.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/array_list.xml" value="0.10648148148148148" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/button_border.xml" value="0.20697463768115942" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/calendar.xml" value="0.1" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/content_main.xml" value="0.176" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/delete_izmenit.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/dobavlenie.xml" value="0.2596491228070175" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/dobavlenie_fio.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/dobavlenie_jurnala.xml" value="0.2368659420289855" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/dobavlenie_list.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/dobavlenie_odno_pole_edit.xml" value="0.24909420289855072" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/dobavlenie_odno_pole_edit_spiner.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/dobavlenie_predmeta.xml" value="0.24909420289855072" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/dobavlenie_prepodavatel9.xml" value="0.264" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/dobavlenie_studenta.xml" value="0.264" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/facul_naprav_group_stud.xml" value="0.20652173913043478" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/fragment_dashboard.xml" value="0.264" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/fragment_notifications.xml" value="0.22192028985507245" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/hyq.xml" value="0.253125" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/izmen_opisanie_data.xml" value="0.2" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/izmenenie_3edit_spiner.xml" value="0.1" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/izmenenie_fio.xml" value="0.22192028985507245" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/izmenenie_fio_spiner.xml" value="0.264" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/izmenenie_odin_spiner.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/izmenenie_odno_edit_spiner.xml" value="0.264" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/izmenenie_spiner.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/list_item.xml" value="0.176" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/nav_header_main.xml" value="0.264" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/nav_header_poseshenie.xml" value="0.4" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/okno_dobavleni9_doljnosti_and_prepoda.xml" value="0.264" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/okno_dobavleni9_fk_predmeta.xml" value="0.264" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/okno_dobavleni9_jurnala.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/okno_dobavleni9_prepoda.xml" value="0.22735507246376813" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/okno_dobavleni9_studentov.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/okno_smotret_jurnal.xml" value="0.264" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/okno_smotret_propyski.xml" value="0.2375" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/otobrajenie_daty_propyskov.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/otobrajenie_fio.xml" value="0.264" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/otobrajenie_izmenenie_3_pol9.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/otobrajenie_izmenenie_4_pol9.xml" value="0.22105263157894736" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/otobrajenie_izmenenie_jurnala_list.xml" value="0.2" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/otobrajenie_izmenenie_predmeta_list.xml" value="0.264" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/otobrajenie_izmenenie_prepodavatel9_list.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/otobrajenie_izmenenie_studenta_list.xml" value="0.20697463768115942" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/otobrajenie_posesheni9.xml" value="0.2513586956521739" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/otobrajenie_propyskov_studentov.xml" value="0.264" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/pokaz_array_list_posesheni9.xml" value="0.2" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/propyski_plus_minus.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/simple_spiner_lol.xml" value="0.2513586956521739" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/toolbar.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/toolbara.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/toolbara_smotret_propyski.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/vibor_izmeneni9_fio_fng.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/vibor_izmeneni9_fio_prepod_doljnost.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/vibor_izmeneni9_predmeta_fk.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/layout/yes.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/menu/bottom_nav_menu.xml" value="0.264" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/menu/main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/menu/menu_back.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/menu/menu_dobav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/menu/menu_posesheni9.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/menu/menu_sp.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Danila/AndroidStudioProjects/JurnalD/app/src/main/res/mipmap-anydpi-v26/ic_spiski_nav.xml" value="0.203" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

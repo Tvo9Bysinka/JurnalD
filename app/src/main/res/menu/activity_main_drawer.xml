@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group >
+        <item
+            android:id="@+id/nav_dobavlenie_dom"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Главное меню" />
+    </group>
+    <item android:title="Списки">
+        <menu>
+            <item
+                android:id="@+id/nav_dobavleniePrepodavatel9"
+                android:icon="@drawable/kisspng_professor_x_cartoon_animation_character_professor_5ac1af9e4ff6c8_9026922915226428463275"
+                android:title="Преподаватели" />
+
+            <item
+                android:id="@+id/nav_dobavlenieDisciplina"
+                android:icon="@drawable/predmet"
+                android:title="Предметы" />
+            <item
+                android:id="@+id/nav_dobavlenie"
+                android:icon="@drawable/fngs"
+                android:title="Ф|Н|Г|С" />
+            <item
+                android:id="@+id/nav_jurnal"
+                android:icon="@drawable/ic_baseline_menu_book_24"
+                android:title="Записи Журнала" />
+        </menu>
+    </item>
+
+
+</menu>

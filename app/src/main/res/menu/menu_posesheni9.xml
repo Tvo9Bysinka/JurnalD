@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group >
+        <item
+            android:id="@+id/nav_poseshenie_dom"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Главное меню" />
+    </group>
+    <item android:title="Посещение">
+        <menu>
+
+            <item
+                android:id="@+id/nav_ficsation"
+                android:icon="@drawable/ic_ficsation"
+                android:title="Фиксация посещения" />
+            <item
+                android:id="@+id/nav_smotret_propyski"
+                android:icon="@drawable/ic_smotret_propyski"
+                android:title="Посещаемость студентов" />
+        </menu>
+    </item>
+
+</menu>

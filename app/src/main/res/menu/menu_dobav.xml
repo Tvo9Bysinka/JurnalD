@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_main"
+        android:title="На главную" />
+    <item android:id="@+id/menu_otmechat"
+        android:title="Журнал" />
+    <item
+        android:id="@+id/menu_fngs"
+        android:title="Добавление Ф|Н|Г|С" />
+    <item
+        android:id="@+id/menu_prepod"
+        android:title="Добавление Работника" />
+    <item
+        android:id="@+id/menu_predmet"
+        android:title="Добавление Предмета" />
+    <item
+        android:id="@+id/menu_jurnal"
+        android:title="Добавление Журнала" />
+
+
+</menu>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/fon_green"
+    android:orientation="vertical">
+    <include layout="@layout/toolbara_smotret_propyski"/>
+
+    <Spinner
+        android:id="@+id/spinner_propyskov"
+        style="@android:style/Widget.Spinner.DropDown"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTintMode="add"
+        android:contentDescription="Пропуски"
+        android:minHeight="40dp" />
+
+    <TextView
+        android:id="@+id/osm_kolvo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="8dp"
+        android:background="#B07ED3C7"
+        android:text="Количество студентов: "
+        android:textColor="#0D468E"
+        android:textSize="16sp" />
+
+    <ListView
+        android:id="@+id/otobrajenie_LV_propyski"
+        style="@style/Widget.AppCompat.ListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:background="#ABA9D1BA" />
+</LinearLayout>
