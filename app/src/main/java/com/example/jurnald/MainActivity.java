@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         db.execSQL("CREATE TABLE IF NOT EXISTS facultet " +
                     "(id integer primary key autoincrement, name_faculteta TEXT)");
 
-        //Направление
+        //Направлениеу
         db.execSQL("CREATE TABLE IF NOT EXISTS napravlenie " +
                 "(id integer primary key autoincrement, name_napravlenie TEXT,"+
                 "id_facultet integer,foreign key (id_facultet) references facultet (id))");
